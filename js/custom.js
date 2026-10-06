@@ -9,7 +9,7 @@ const horoscopeData = {
           "Today is a day for bold actions. Trust your instincts and take the leap you've been considering.",
         luckyNumbers: [3, 17, 21],
         key: 0,
-        icon: "https://openmoji.org/data/color/svg/2648.svg"
+        icon: "images/Aries.svg"
       },
       {
         sign: "Taurus",
@@ -18,7 +18,7 @@ const horoscopeData = {
           "Patience will be your ally today. Good things come to those who wait, so don't rush into decisions.",
         luckyNumbers: [5, 14, 29],
         key: 1,
-        icon: "https://openmoji.org/data/color/svg/2649.svg"
+        icon: "images/Taurus.svg",
       },
       {
         sign: "Gemini",
@@ -27,7 +27,7 @@ const horoscopeData = {
           "Communication is key today. Reach out to an old friend or a family member you haven't spoken to in a while.",
         luckyNumbers: [2, 16, 23],
         key: 2,
-        icon: "https://openmoji.org/data/color/svg/264A.svg"
+        icon: "images/Gemini.svg",
       },
       {
         sign: "Cancer",
@@ -36,7 +36,7 @@ const horoscopeData = {
           "Embrace your creative side. Today is a perfect day for starting a new artistic project.",
         luckyNumbers: [7, 19, 25],
         key: 3,
-        icon: "https://openmoji.org/data/color/svg/264B.svg"
+        icon: "images/Cancer.svg",
       },
       {
         sign: "Leo",
@@ -45,7 +45,7 @@ const horoscopeData = {
           "Your leadership skills will be in demand today. Take charge in a group situation and guide others to success.",
         luckyNumbers: [1, 8, 22],
         key: 4,
-        icon: "https://openmoji.org/data/color/svg/264C.svg"
+        icon: "images/Leo.svg",
       },
       {
         sign: "Virgo",
@@ -54,7 +54,7 @@ const horoscopeData = {
           "Pay attention to the small details today. Your meticulousness will lead to a significant breakthrough.",
         luckyNumbers: [4, 11, 26],
         key: 5,
-        icon: "https://openmoji.org/data/color/svg/264D.svg"
+        icon: "images/Virgo.svg",
       },
       {
         sign: "Libra",
@@ -63,7 +63,7 @@ const horoscopeData = {
           "Seek balance in your life. Take time for yourself and focus on your personal well-being.",
         luckyNumbers: [6, 15, 24],
         key: 6,
-        icon: "https://openmoji.org/data/color/svg/264E.svg"
+        icon: "images/Libra.svg",
       },
       {
         sign: "Scorpio",
@@ -72,7 +72,7 @@ const horoscopeData = {
           "A mystery may unfold today. Trust your intuition and follow where it leads.",
         luckyNumbers: [9, 18, 27],
         key: 7,
-        icon: "https://openmoji.org/data/color/svg/264F.svg"
+        icon: "images/Scorpio.svg",
       },
       {
         sign: "Sagittarius",
@@ -81,7 +81,7 @@ const horoscopeData = {
           "Adventure calls to you. Embrace new experiences and open yourself to learning.",
         luckyNumbers: [3, 12, 21],
         key: 8,
-        icon: "https://openmoji.org/data/color/svg/2650.svg"
+        icon: "images/Sagittarius.svg",
       },
       {
         sign: "Capricorn",
@@ -90,7 +90,7 @@ const horoscopeData = {
           "Discipline and hard work will be fruitful. Focus on your goals and you'll achieve great things.",
         luckyNumbers: [8, 16, 23],
         key: 9,
-        icon: "https://openmoji.org/data/color/svg/2651.svg"
+        icon: "images/Capricorn.svg",
       },
       {
         sign: "Aquarius",
@@ -99,7 +99,7 @@ const horoscopeData = {
           "Innovation is your theme today. Think outside the box and explore new ideas.",
         luckyNumbers: [5, 13, 20],
         key: 10,
-        icon: "https://openmoji.org/data/color/svg/2652.svg"
+        icon: "images/Aquarius.svg",
       },
       {
         sign: "Pisces",
@@ -108,7 +108,7 @@ const horoscopeData = {
           "Your empathy will be a blessing to someone in need. Listen and offer your support.",
         luckyNumbers: [2, 10, 22],
         key: 11,
-        icon: "https://openmoji.org/data/color/svg/2653.svg"
+        icon:"images/Pisces.svg",
       }
     ]
   }
